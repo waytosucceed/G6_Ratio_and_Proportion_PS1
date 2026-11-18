@@ -1,0 +1,237 @@
+{
+  "heading": "G6_Finding Proportion",
+  "topics": [
+    {
+      "heading": "Finding Proportion",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": ["In mathematics, there is an important difference between a \"ratio\" and a \"proportion\" when looking at a group of items. Which of the following statements correctly explains how a proportion works?"],
+    "options": [
+      "A proportion compares one specific part of a group to the total size of the whole group.",
+      "A proportion compares one part of a group directly to another part of the group.",
+      "A proportion always subtracts the parts to find a remaining whole number.",
+      "A proportion only tells you the total number of items in the group."
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": ["Look at the pencil case shown above. Which of the following correctly states the proportion of blue pens in the entire pencil case?"],
+    "options": [
+      "The proportion is 3 out of 4.",
+      "The proportion is 4 out of 7.",
+      "The proportion is 3 out of 7.",
+      "The proportion is 4 out of 3."
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 3,
+    "question": ["Look at the shirts shown above. The ratio of striped shirts to plain shirts is 2:8 (which simplifies to 1:4). What is the proportion of striped shirts written as a simplified fraction?"],
+    "options": [
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "4" } },
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "5" } },
+      { "fraction": { "whole": "", "numerator": "2", "denominator": "8" } },
+      { "fraction": { "whole": "", "numerator": "4", "denominator": "5" } }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 4,
+    "question": ["Look at the flowers described above. The ratio of roses to daisies is 6:8 (which simplifies to 3:4). What is the proportion of roses written as a simplified fraction?"],
+    "options": [
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "4" } },
+      { "fraction": { "whole": "", "numerator": "6", "denominator": "14" } },
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "7" } },
+      { "fraction": { "whole": "", "numerator": "4", "denominator": "7" } }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A proportion can be written as a fraction, a decimal, or a percentage. If the proportion of blueberry muffins in a bakery display is exactly ",
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "10" } },
+      " of the total muffins, how is this proportion correctly written as a percentage?"
+    ],
+    "options": ["1%", "10%", "20%", "100%"],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "If the proportion of green tennis balls in a sports bag is exactly ",
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "5" } },
+      " of the total balls, how is this proportion correctly written as a percentage?"
+    ],
+    "options": ["35%", "60%", "30%", "53%"],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "If the proportion of red toy cars in a collection is exactly ",
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "4" } },
+      " of all the cars, how is this proportion correctly written as a decimal?"
+    ],
+    "options": ["0.14", "0.40", "0.25", "1.40"],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "If the proportion of blue notebooks on a classroom shelf is exactly ",
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "4" } },
+      " of all the notebooks, how is this proportion correctly written as a decimal?"
+    ],
+    "options": ["0.34", "0.75", "3.40", "0.07"],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "In a small packet of 30 mixed lollies, the ratio of mints to toffees is 1:5. We can use ratio and proportion to work out the exact number of mints.<br>Add the ratio parts: 1 + 5 = 6 portions in total.<br>The proportion of mints is ",
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "6" } },
+      " of the total lollies.<br>Using this method, how many mints are inside the packet? ______"
+    ],
+    "input": [""],
+    "answer": ["5"]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "In a container of 40 coloured beads, the ratio of red beads to blue beads is 3:5.<br>Add the ratio parts: 3 + 5 = 8 portions in total.<br>The proportion of red beads is ",
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "8" } },
+      " of the total beads.<br>Using this method, how many red beads are inside the container? ______"
+    ],
+    "input": [""],
+    "answer": ["15"]
+  },
+  {
+    "questionNo": 11,
+    "question": ["Use the information on the delivery crate to work out the exact number of hammers and screwdrivers inside."],
+    "options": [
+      "Hammers: 30, Screwdrivers: 30",
+      "Hammers: 25, Screwdrivers: 35",
+      "Hammers: 35, Screwdrivers: 25",
+      "Hammers: 40, Screwdrivers: 20"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 12,
+    "question": ["Use the information on the plastic tub to work out the exact number of square blocks and round blocks inside."],
+    "options": [
+      "Square blocks: 30, Round blocks: 18",
+      "Square blocks: 18, Round blocks: 30",
+      "Square blocks: 25, Round blocks: 23",
+      "Square blocks: 35, Round blocks: 13"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 13,
+    "question": ["Two ratios are \"in proportion\" if they are exactly equal to each other when simplified. We can use equivalent fractions to find missing numbers in a proportion.<br>Find the missing number in the box for the following proportion:<br>______ ∶ 6 ∷ 15 ∶ 45"],
+    "input": [""],
+    "answer": ["2"]
+  },
+  {
+    "questionNo": 14,
+    "question": ["Find the missing number in the box for the following proportion:<br>______ ∶ 7 ∷ 16 ∶ 28"],
+    "input": [""],
+    "answer": ["4"]
+  },
+  {
+    "questionNo": 15,
+    "question": ["State whether the following mathematical statement is True or False:<br>14 ∶ 21 = 20 ∶ 40"],
+    "options": [
+      "True, because both ratios simplify to 1:2.",
+      "True, because both ratios simplify to 2:3.",
+      "False, because 14:21 simplifies to 2:3, and 20:40 simplifies to 1:2.",
+      "False, because 14 is less than 20."
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 16,
+    "question": ["State whether the following mathematical statement is True or False:<br>18 students ∶ 126 students = 12 kg ∶ 84 kg"],
+    "options": [
+      "True, because both ratios simplify to 1:7.",
+      "False, because you cannot compare students to kilograms.",
+      "False, because 18:126 simplifies to 1:6.",
+      "True, because both ratios simplify to 2:14."
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": ["Look at the grid shown above. What is the ratio of the shaded portion to the unshaded portion, written in its simplest form?"],
+    "options": ["3:8", "5:8", "3:5", "5:3"],
+    "answer": 2,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 18,
+    "question": ["Look at the grid shown above. What is the ratio of the shaded portion to the unshaded portion, written in its simplest form?"],
+    "options": ["3:7", "3:10", "7:10", "7:3"],
+    "answer": 0,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 19,
+    "question": ["Look at the grid shown above again. This time, what is the proportion of the shaded squares compared to the entire grid, written as a simplified fraction?"],
+    "options": [
+      "3:7",
+      { "fraction": { "whole": "", "numerator": "3", "denominator": "10" } },
+      { "fraction": { "whole": "", "numerator": "7", "denominator": "10" } },
+      { "fraction": { "whole": "", "numerator": "15", "denominator": "35" } }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 20,
+    "question": ["Look at the grid shown above. What is the proportion of the shaded squares compared to the entire grid, written as a simplified fraction?"],
+    "options": [
+      { "fraction": { "whole": "", "numerator": "15", "denominator": "75" } },
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "5" } },
+      { "fraction": { "whole": "", "numerator": "1", "denominator": "6" } },
+      { "fraction": { "whole": "", "numerator": "5", "denominator": "6" } }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 21,
+    "question": ["Convert the following decimal metric unit of mass: 1.25 kilograms is equal to exactly how many grams?"],
+    "options": ["12.5 grams", "125 grams", "1250 grams", "12500 grams"],
+    "answer": 2
+  },
+  {
+    "questionNo": 22,
+    "question": ["Convert the following decimal metric unit of mass: 4.6 kilograms is equal to exactly how many grams?"],
+    "options": ["46 grams", "460 grams", "4600 grams", "46000 grams"],
+    "answer": 2
+  },
+  {
+    "questionNo": 23,
+    "question": ["2500 millilitres is exactly equal to how many litres?"],
+    "options": ["25 litres", "2.5 litres", "0.25 litres", "250 litres"],
+    "answer": 1
+  }
+
+
+
+
+      ]
+    }
+  ]
+}
